@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-banner.png" alt="Snoopy caminhando ao som da música" width="100%" />
+  <img src="SnoopyCaminhaaoSomdaMúsica.png" alt="Snoopy caminhando ao som da música" width="100%" />
 </div>
 
 <br />
