@@ -1,4 +1,4 @@
-![Capa da identidade visual: marrom, verde e branco](assets/profile-banner.png)
+![Capa da identidade visual: marrom, verde e branco](profile-banner.png)
 
 # Miguel Pereira Mendes
 
